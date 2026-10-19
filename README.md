@@ -18,15 +18,18 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1887" height="371" alt="Screenshot From 2026-10-14 23-30-08" src="https://github.com/user-attachments/assets/472523d1-309e-4b3d-a669-8f5971a4eec9" />
 <br><br><br>
 
-5.
+5. Run step 3 directly to skip step 1 and step 2 since we already authenticate and push the image container via podman. This number 3 choice provisioned the AKS cluster and automatically assigned the `AcrPull` role so the cluster could securely download the image.
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-41-40" src="https://github.com/user-attachments/assets/9c092960-565d-42f6-ba76-5e510b2a6a38" />
 <br><br><br>
 
+6.
 <img width="1887" height="332" alt="Screenshot From 2026-10-14 23-43-24" src="https://github.com/user-attachments/assets/cf85fc4e-fee2-4063-a88a-44392e574f28" />
-cccc
+<br><br><br>
 
+7.
 <img width="1887" height="220" alt="Screenshot From 2026-10-14 23-44-16" src="https://github.com/user-attachments/assets/7fa4af8a-b0f3-49ff-9662-9ffa0ccdfd28" />
-ddd
+<br><br><br>
+
 <img width="1901" height="837" alt="Screenshot From 2026-10-14 23-44-56" src="https://github.com/user-attachments/assets/6a28e298-8c67-47a5-8f3f-9762d1c0305c" />
 ddddd
 
