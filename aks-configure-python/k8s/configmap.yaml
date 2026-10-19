@@ -1,0 +1,13 @@
+#store non-sensitive configuration data as key-value pairs that can be consumed by pods.
+#store student name, API version and log path for API Keys
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: api-config
+  labels:
+    app: aks-config-api # Label for the AKS configuration API
+data:
+  # Store non-sensitive configuration values
+  STUDENT_NAME: "Amirul Hezzat"
+  API_VERSION: "1.0.0"
+  LOG_PATH: "/var/log/api" # Path for API logs

@@ -1,0 +1,16 @@
+#PersistentVolumeClaim(PVC) requests storage resources from Azure that can be mounted to pods.
+#create PVC that uses Azure Disk storage to persist API log files across pod restarts
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: api-logs-pvc
+  labels:
+    app: aks-config-api # Label for the AKS configuration API
+spec:
+  accessModes:
+    - ReadWriteOnce  # Allow single pod to mount volume for read/write
+  resources:
+    requests:
+      storage: 1Gi  # Request minimum Azure Disk size
+  storageClassName: managed-csi  # Use Azure Disk CSI driver (default)
+  volumeMode: Filesystem  # Default mode
