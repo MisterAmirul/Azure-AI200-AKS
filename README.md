@@ -3,9 +3,9 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 
 
 
-<img width="1917" height="930" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
+<img width="1917" height="300" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
 dddd
-<img width="1917" height="930" alt="Screenshot From 2026-10-14 23-28-43" src="https://github.com/user-attachments/assets/9a856713-6007-443a-9a85-7af27692cfea" />
+<img width="1917" height="300" alt="Screenshot From 2026-10-14 23-28-43" src="https://github.com/user-attachments/assets/9a856713-6007-443a-9a85-7af27692cfea" />
 dddd
 
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-28-56" src="https://github.com/user-attachments/assets/c848399e-e8b3-4803-9098-ee6aca49c1f6" />
