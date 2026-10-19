@@ -34,7 +34,7 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1901" height="837" alt="Screenshot From 2026-10-14 23-44-56" src="https://github.com/user-attachments/assets/6a28e298-8c67-47a5-8f3f-9762d1c0305c" />
 <br><br><br>
 
-9. 
+9. Installed the "kubectl" dependencies locally on Fedora to interact with the cloud cluster. Once installed, we verified the connection by querying the AKS control plane to ensure the worker node was actively running.
 <img width="1899" height="507" alt="Screenshot From 2026-10-14 23-51-47" src="https://github.com/user-attachments/assets/4936dc95-ceea-4504-8fc8-a73ffe221a57" />
 <br><br><br>
 
