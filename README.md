@@ -26,50 +26,45 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1887" height="332" alt="Screenshot From 2026-10-14 23-43-24" src="https://github.com/user-attachments/assets/cf85fc4e-fee2-4063-a88a-44392e574f28" />
 <br><br><br>
 
-7.
+7. Ran option to validate the infrastructure. This confirmed that both the Azure Container Registry and the AKS cluster  had successfully provisioned and were actively running in a `Succeeded` state.
 <img width="1887" height="220" alt="Screenshot From 2026-10-14 23-44-16" src="https://github.com/user-attachments/assets/7fa4af8a-b0f3-49ff-9662-9ffa0ccdfd28" />
 <br><br><br>
 
-8.
+8. Validate the AKS cluster running in Azure web portal.
 <img width="1901" height="837" alt="Screenshot From 2026-10-14 23-44-56" src="https://github.com/user-attachments/assets/6a28e298-8c67-47a5-8f3f-9762d1c0305c" />
 <br><br><br>
 
-9.
+9. 
 <img width="1899" height="507" alt="Screenshot From 2026-10-14 23-51-47" src="https://github.com/user-attachments/assets/4936dc95-ceea-4504-8fc8-a73ffe221a57" />
 <br><br><br>
 
-
+10.
 <img width="1899" height="668" alt="Screenshot From 2026-10-15 00-05-31" src="https://github.com/user-attachments/assets/5ebc8bbc-4b6b-480c-9659-8e49595d5f08" />
-dddd
+<br><br><br>
 
+11.
 <img width="1899" height="428" alt="Screenshot From 2026-10-15 00-12-01" src="https://github.com/user-attachments/assets/9ff8607b-3bba-482e-8e6f-31acd1adee31" />
-ddd
+<br><br><br>
 
-
+12.
 <img width="1899" height="141" alt="Screenshot From 2026-10-15 00-15-51" src="https://github.com/user-attachments/assets/a719291f-1401-4dcc-9b1a-65c51945874c" />
+<br><br><br>
 
-
-dddd
-
-
+13.
 <img width="1912" height="319" alt="Screenshot From 2026-10-15 00-30-35" src="https://github.com/user-attachments/assets/2b6a8a92-4a4f-4142-88ec-b0c1fcbf82f4" />
-dddd
+<br><br><br>
 
-
+14.
 <img width="1912" height="566" alt="Screenshot From 2026-10-15 00-30-57" src="https://github.com/user-attachments/assets/a65d9689-56a2-4da2-8e95-0847dfc1b260" />
+<br><br><br>
 
-dddd
-
-
+15.
 <img width="1912" height="742" alt="Screenshot From 2026-10-15 00-31-42" src="https://github.com/user-attachments/assets/91a4a64e-3572-4d9a-8b06-89c412fa30ec" />
-ddd
+<br><br><br>
 
-
-
-
+16.
 <img width="1912" height="846" alt="Screenshot From 2026-10-15 00-32-24" src="https://github.com/user-attachments/assets/db757e44-a3c5-4387-aa67-26875e513555" />
-
-jjj
+<br><br>
 
 
 
