@@ -46,11 +46,11 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1899" height="428" alt="Screenshot From 2026-10-15 00-12-01" src="https://github.com/user-attachments/assets/9ff8607b-3bba-482e-8e6f-31acd1adee31" />
 <br><br><br>
 
-12.  Test curl return 200  OK.
+12.  Test curl on external IP return 200  OK.
 <img width="1899" height="141" alt="Screenshot From 2026-10-15 00-15-51" src="https://github.com/user-attachments/assets/a719291f-1401-4dcc-9b1a-65c51945874c" />
 <br><br><br>
 
-13.
+13. Run "python main.py" will trigger the interactive menu for state check. 
 <img width="1912" height="319" alt="Screenshot From 2026-10-15 00-30-35" src="https://github.com/user-attachments/assets/2b6a8a92-4a4f-4142-88ec-b0c1fcbf82f4" />
 <br><br><br>
 
