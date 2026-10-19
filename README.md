@@ -42,7 +42,7 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1899" height="668" alt="Screenshot From 2026-10-15 00-05-31" src="https://github.com/user-attachments/assets/5ebc8bbc-4b6b-480c-9659-8e49595d5f08" />
 <br><br><br>
 
-11.
+11. Apply those manifests file to AKS and obtain the external IP address.
 <img width="1899" height="428" alt="Screenshot From 2026-10-15 00-12-01" src="https://github.com/user-attachments/assets/9ff8607b-3bba-482e-8e6f-31acd1adee31" />
 <br><br><br>
 
