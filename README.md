@@ -54,18 +54,18 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1912" height="319" alt="Screenshot From 2026-10-15 00-30-35" src="https://github.com/user-attachments/assets/2b6a8a92-4a4f-4142-88ec-b0c1fcbf82f4" />
 <br><br><br>
 
-14.
+14. Option 2 to check API readiness.
 <img width="1912" height="566" alt="Screenshot From 2026-10-15 00-30-57" src="https://github.com/user-attachments/assets/a65d9689-56a2-4da2-8e95-0847dfc1b260" />
 <br><br><br>
 
-15.
+15. Option 3 to view Secrets information.
 <img width="1912" height="742" alt="Screenshot From 2026-10-15 00-31-42" src="https://github.com/user-attachments/assets/91a4a64e-3572-4d9a-8b06-89c412fa30ec" />
 <br><br><br>
 
-16.
+16. Option 5 to retrieve and list all products that have been hardcoded into source code.
 <img width="1912" height="846" alt="Screenshot From 2026-10-15 00-32-24" src="https://github.com/user-attachments/assets/db757e44-a3c5-4387-aa67-26875e513555" />
-<br><br>
+<br><br><br>
 
 
-
+17. Finally clean up resources to avoid unnecessary resource usage by deleting the resource group name.
 <img width="1844" height="785" alt="Screenshot From 2026-10-15 00-35-22" src="https://github.com/user-attachments/assets/d083e00b-721e-44fc-9f3e-88cb519e1ffc" />
