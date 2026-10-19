@@ -10,11 +10,11 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1750" height="250" alt="Screenshot From 2026-10-14 23-28-43" src="https://github.com/user-attachments/assets/9a856713-6007-443a-9a85-7af27692cfea" />
 <br><br><br>
 
-3. Uploads the packaged container image from your local linux directly into ACR.
+3. Uploads the packaged container image from local linux directly into ACR.
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-28-56" src="https://github.com/user-attachments/assets/c848399e-e8b3-4803-9098-ee6aca49c1f6" />
 <br><br><br>
 
-4.
+4. Run the application by "python azdeploy.py" will trigger interactive deployment menu.
 <img width="1887" height="371" alt="Screenshot From 2026-10-14 23-30-08" src="https://github.com/user-attachments/assets/472523d1-309e-4b3d-a669-8f5971a4eec9" />
 <br><br><br>
 
