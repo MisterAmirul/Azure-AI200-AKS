@@ -1,14 +1,13 @@
 # Azure Kubernetes Service
 Lab practice demonstrating hands-on exercise configuring application on Azure Kubernetes Service.
 
-1. Provisioning a secure, serverless Azure Container Apps (ACA) Environment to host the containerized image.
+1. Podman login command authenticate local container engine to access private ACR.
 <img width="1700" height="250" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
 <br><br>
 
-<img width="1750" height="250" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
-dddd
+2. Podman build
 <img width="1750" height="250" alt="Screenshot From 2026-10-14 23-28-43" src="https://github.com/user-attachments/assets/9a856713-6007-443a-9a85-7af27692cfea" />
-dddd
+<br><br>
 
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-28-56" src="https://github.com/user-attachments/assets/c848399e-e8b3-4803-9098-ee6aca49c1f6" />
 dddd
