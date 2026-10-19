@@ -46,7 +46,7 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1899" height="428" alt="Screenshot From 2026-10-15 00-12-01" src="https://github.com/user-attachments/assets/9ff8607b-3bba-482e-8e6f-31acd1adee31" />
 <br><br><br>
 
-12.
+12.  Test curl return 200  OK.
 <img width="1899" height="141" alt="Screenshot From 2026-10-15 00-15-51" src="https://github.com/user-attachments/assets/a719291f-1401-4dcc-9b1a-65c51945874c" />
 <br><br><br>
 
