@@ -2,7 +2,7 @@
 Lab practice demonstrating hands-on exercise configuring application on Azure Kubernetes Service.
 
 
-1. Podman login command authenticate local container engine to access private ACR.
+1. Access ACR docker via Podman login command, authenticate the local device.
 <img width="1700" height="250" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
 <br><br>
 
