@@ -18,11 +18,11 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1887" height="371" alt="Screenshot From 2026-10-14 23-30-08" src="https://github.com/user-attachments/assets/472523d1-309e-4b3d-a669-8f5971a4eec9" />
 <br><br><br>
 
-5. Run step 3 directly to skip step 1 and step 2 since we already authenticate and push the image container via podman. This number 3 choice provisioned the AKS cluster and automatically assigned the `AcrPull` role so the cluster could securely download the image.
+5. Ran option 3 directly, skipping Option 1 and 2 since the container image was already authenticated and pushed locally via Podman. This step provisioned the AKS cluster and automatically assigned the `AcrPull` role so the cluster could securely download the image.
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-41-40" src="https://github.com/user-attachments/assets/9c092960-565d-42f6-ba76-5e510b2a6a38" />
 <br><br><br>
 
-6.
+6. Ran option 4 to fetch the AKS credentials. This downloaded the cluster configuration directly into `~/.kube/config`, allowing to control and manage the cloud cluster locally using the `kubectl` command-line tool.
 <img width="1887" height="332" alt="Screenshot From 2026-10-14 23-43-24" src="https://github.com/user-attachments/assets/cf85fc4e-fee2-4063-a88a-44392e574f28" />
 <br><br><br>
 
@@ -30,11 +30,13 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1887" height="220" alt="Screenshot From 2026-10-14 23-44-16" src="https://github.com/user-attachments/assets/7fa4af8a-b0f3-49ff-9662-9ffa0ccdfd28" />
 <br><br><br>
 
+8.
 <img width="1901" height="837" alt="Screenshot From 2026-10-14 23-44-56" src="https://github.com/user-attachments/assets/6a28e298-8c67-47a5-8f3f-9762d1c0305c" />
-ddddd
+<br><br><br>
 
+9.
 <img width="1899" height="507" alt="Screenshot From 2026-10-14 23-51-47" src="https://github.com/user-attachments/assets/4936dc95-ceea-4504-8fc8-a73ffe221a57" />
-dddd
+<br><br><br>
 
 
 <img width="1899" height="668" alt="Screenshot From 2026-10-15 00-05-31" src="https://github.com/user-attachments/assets/5ebc8bbc-4b6b-480c-9659-8e49595d5f08" />
