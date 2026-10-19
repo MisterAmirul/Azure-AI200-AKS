@@ -4,20 +4,23 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 
 1. Access ACR docker via Podman login command, authenticate the local device.
 <img width="1700" height="250" alt="Screenshot From 2026-10-14 23-09-51" src="https://github.com/user-attachments/assets/bf687445-2aa2-49dc-99ce-328e9c3bc72a" />
-<br><br>
+<br><br><br>
 
 2. Podman build compile the underlying dependencies and source code into runnable container image. 
 <img width="1750" height="250" alt="Screenshot From 2026-10-14 23-28-43" src="https://github.com/user-attachments/assets/9a856713-6007-443a-9a85-7af27692cfea" />
-<br><br>
+<br><br><br>
 
-3. 
+3. Uploads the packaged container image from your local linux directly into ACR.
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-28-56" src="https://github.com/user-attachments/assets/c848399e-e8b3-4803-9098-ee6aca49c1f6" />
-dddd
-<img width="1887" height="371" alt="Screenshot From 2026-10-14 23-30-08" src="https://github.com/user-attachments/assets/472523d1-309e-4b3d-a669-8f5971a4eec9" />
-dddddd
+<br><br><br>
 
+4.
+<img width="1887" height="371" alt="Screenshot From 2026-10-14 23-30-08" src="https://github.com/user-attachments/assets/472523d1-309e-4b3d-a669-8f5971a4eec9" />
+<br><br><br>
+
+5.
 <img width="1887" height="252" alt="Screenshot From 2026-10-14 23-41-40" src="https://github.com/user-attachments/assets/9c092960-565d-42f6-ba76-5e510b2a6a38" />
-ccc
+<br><br><br>
 
 <img width="1887" height="332" alt="Screenshot From 2026-10-14 23-43-24" src="https://github.com/user-attachments/assets/cf85fc4e-fee2-4063-a88a-44392e574f28" />
 cccc
