@@ -38,7 +38,7 @@ Lab practice demonstrating hands-on exercise configuring application on Azure Ku
 <img width="1899" height="507" alt="Screenshot From 2026-10-14 23-51-47" src="https://github.com/user-attachments/assets/4936dc95-ceea-4504-8fc8-a73ffe221a57" />
 <br><br><br>
 
-10.
+10. Configure the YAML file(Configmap, Secrets, PVC & Deployment) in source code vscode to map new value. 
 <img width="1899" height="668" alt="Screenshot From 2026-10-15 00-05-31" src="https://github.com/user-attachments/assets/5ebc8bbc-4b6b-480c-9659-8e49595d5f08" />
 <br><br><br>
 
